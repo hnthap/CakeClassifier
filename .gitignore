@@ -1,0 +1,8 @@
+# Secret information file
+my_secrets.py
+
+# Extracted data folder
+Cake/
+
+# Cache
+__pycache__/
